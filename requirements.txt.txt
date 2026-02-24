@@ -1,0 +1,5 @@
+   stream lit
+   scikit-learn
+   pandas
+   NumPy
+   joblib
